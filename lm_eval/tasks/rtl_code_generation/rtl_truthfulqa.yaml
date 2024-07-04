@@ -1,7 +1,7 @@
 group:
   - truthfulqa
 task: rtl_code_generation
-dataset_path: truthful_qa
+dataset_path: /content/test.jsonl
 dataset_name: generation
 output_type: generate_until
 training_split: null
